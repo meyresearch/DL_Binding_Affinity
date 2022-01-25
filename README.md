@@ -1,4 +1,4 @@
-# DL_Binding_Affinity
+# Deep Learning techniques for Binding_Affinity estimation
 This repository contains the code and data for estimating protein-ligand binding affinity scores using Deep Learning techniques.
 
 ## Update 25th Jan 2022
